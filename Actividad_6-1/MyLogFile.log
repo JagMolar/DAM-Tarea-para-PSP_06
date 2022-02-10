@@ -1,0 +1,16 @@
+mar 21, 2021 2:53:01 PM ValidacionRegistro <init>
+CONFIGURAR: LOGIN manuel: RECHAZADO CON FORMATO NO VALIDO.
+mar 21, 2021 2:54:42 PM ValidacionRegistro <init>
+CONFIGURAR: LOGIN: hanglong: FORMATO CORRECTO.
+mar 21, 2021 2:55:09 PM ValidacionRegistro <init>
+CONFIGURAR: FILE: vino.pdf: FORMATO CORRECTO.
+mar 21, 2021 2:55:09 PM ValidacionRegistro <init>
+INFORMACIÓN: Fichero: vino.pdf solicitado no existe.
+mar 21, 2021 2:55:21 PM ValidacionRegistro <init>
+CONFIGURAR: LOGIN: hanglong: FORMATO CORRECTO.
+mar 21, 2021 2:57:05 PM ValidacionRegistro <init>
+CONFIGURAR: FILE: validado.txt: FORMATO CORRECTO.
+mar 21, 2021 2:57:05 PM ValidacionRegistro <init>
+INFORMACIÓN: Fichero: validado.txt solicitado existe.
+mar 21, 2021 2:57:05 PM ValidacionRegistro <init>
+INFORMACIÓN: Fichero: validado.txt mostrado correctamente.
