@@ -1,4 +1,0 @@
-TAREA 06
-Fichero de texto para prueba.
-Comprobada entrada.
-marzo 2021.
